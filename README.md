@@ -13,7 +13,7 @@ A flutter CycleBanner package project.
 add in pubspec.yaml
 
 ```
-cycle_banner: ^0.0.1
+cycle_banner: ^0.0.2
 ```
 
 ## Usage
